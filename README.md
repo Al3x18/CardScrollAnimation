@@ -8,7 +8,6 @@ The app displays a home screen with:
 
 - **Balance cards** that scroll horizontally, with scale and transition effects during vertical scrolling
 - **Expense list** that updates when the active card changes
-- **Custom scroll behavior** using `ScrollTargetBehavior` to snap scroll positions precisely
 
 ## Notes
 
